@@ -31,4 +31,4 @@ This project focuses on predicting multiple functions of a protein based on its 
 - Run the notebook cells sequentially to observe training and predictions.
 - at last provide any fasta file which conatins proteins sequences and run the predict function to get output csv files
 
-Alternatively, you can directly fork and edit the original Kaggle version from [this notebook]((https://www.kaggle.com/code/hello23981724/intelligproject)), then click “Copy and Edit” and “Run All”.
+Alternatively, you can directly fork and edit the original Kaggle version from [this notebook](https://www.kaggle.com/code/hello23981724/intelligproject), then click “Copy and Edit” and “Run All”.
