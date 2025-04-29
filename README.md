@@ -24,6 +24,8 @@ This project focuses on predicting multiple functions of a protein based on its 
 
 3. [Protein Labels Dataset](https://www.kaggle.com/datasets/yashvashistha1/labels)  
    Includes pre-extracted labels to reduce computation time during training.
+##Github Link:
+-The github link for this project is [Link](https://github.com/kalyanxyz)
 ## How to Run the Code:
 - Download and open the `intelligproject.ipynb` notebook in [Kaggle](https://www.kaggle.com) (preferred) or Google Colab.
 - Make sure to upload all required datasets to the environment and adjust the file paths as needed.
