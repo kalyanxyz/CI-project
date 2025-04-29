@@ -1,8 +1,0 @@
-tensorflow
-transformers
-obonet
-pyvis
-biopython
-numpy
-pandas
-torch
