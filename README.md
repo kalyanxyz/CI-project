@@ -10,9 +10,8 @@ This project focuses on predicting multiple functions of a protein based on its 
 
 ## Repository Contents:
 - `intelligproject.ipynb`: Core notebook used for model training and evaluation.
-- `sequence_from_fasta.ipynb`: Auxiliary notebook that helps extract sequences from `.fasta` files.
-- `labels.csv`: Contains preprocessed multi-labels for each protein.
-- `example.fasta`: Sample file with protein sequences in FASTA format.
+- Presentation
+- Report for project
 - `requirements.txt`: Lists necessary Python libraries.
 
 ## Datasets Used:
