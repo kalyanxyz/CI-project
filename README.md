@@ -1,8 +1,9 @@
 # Multi-label Protein Function Prediction
 
 ## Authors:
-- **Kalyan Sriram** (220001023)  
 - **KVS Teja** (220001038)
+- **Kalyan Sriram** (220001023)  
+
 
 ## Overview:
 This project focuses on predicting multiple functions of a protein based on its amino acid sequence using deep learning models. The task is multi-label classification, and we utilize a pre-computed embedding of protein sequences for training.
